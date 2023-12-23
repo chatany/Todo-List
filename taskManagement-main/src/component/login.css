@@ -1,0 +1,14 @@
+    .sah{
+        border: solid;
+        box-shadow: 20px 20px 60px rgb(59, 59, 59) , -20px -20px 60px white;
+        background-color: rgb(167, 160, 160);
+    }
+
+    .sah button{
+        background-color: black;
+        color: white;
+        border: none;
+    }
+    
+
+  

@@ -1,0 +1,12 @@
+.reg{
+    border: solid;
+        box-shadow: 20px 20px 60px rgb(59, 59, 59) , -20px -20px 60px white;
+        background-color: rgba(97, 96, 96, 0.562)
+}
+
+.reg button{
+    background-color: black;
+    color: white;
+    border: none;
+}
+

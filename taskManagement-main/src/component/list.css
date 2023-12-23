@@ -1,0 +1,21 @@
+.main{
+    background-color: #ffe5b4;
+}
+
+.main h1{
+    font-size: 350%;
+}
+
+.head button{
+    background-color: rgb(30, 21, 21);
+    color: white;
+    border-radius: 4px;
+    border: none;
+    height: 32px;
+    width: 100px;
+}
+
+.data{
+    background-color: rgba(128, 128, 128, 0.692);
+    padding: 40px;
+}
